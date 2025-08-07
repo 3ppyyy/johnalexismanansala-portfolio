@@ -4,9 +4,7 @@ Welcome to my personal web portfolio, built to showcase my skills, projects, and
 
 ## 🚀 Live Site
 
-[Click here to view the live portfolio](https://your-username.github.io/johnalexismanansala-portfolio)
-
-> Replace the URL above once deployed on GitHub Pages or Netlify.
+[Click here to view the live portfolio](https://johnalexismanansala-portfolio.netlify.app/)
 
 ---
 
