@@ -29,6 +29,7 @@ import lacoLogo from './assets/education_logo/laco_logo.png';
 
 // Project Section Logo's
 import clickmoraleLogo from './assets/work_logo/clickmorale_logo.png';
+import pedalupLogo from './assets/work_logo/pedalup_logo.png';
 
 
 export const SkillsInfo = [
@@ -114,5 +115,15 @@ export const SkillsInfo = [
       tags: ["HTML", "CSS", "JavaScript", "React JS", "Tailwind CSS"],
       github: "https://github.com/3ppyyy/clickmorale", // update with your actual repo URL
       webapp: "https://clickmorale.netlify.app/", // update with your actual live URL
+    },
+    {
+      id: 1,
+      title: "PedalUp",
+      description:
+        "PedalUp is a modern, responsive bike rental landing page built with React.js and Tailwind CSS. It’s designed to attract urban riders and adventure seekers by showcasing rental plans, available bikes, and customer-friendly features. With smooth scroll animations, dark mode, and a visually appealing layout, PedalUp demonstrates strong front-end development skills and user-focused design.",
+      image: pedalupLogo, // replace with your actual logo variable
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "Tailwind CSS", "Framer Motion"],
+      github: "https://github.com/3ppyyy/pedalup", // update if needed
+      webapp: "https://pedalup.netlify.app/", // update with your actual live URL
     },
   ];  
